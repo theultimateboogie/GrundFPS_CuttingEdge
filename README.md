@@ -13,7 +13,7 @@ This assumes you have a 64 bit processor. If you don't know what that is, you pr
 THE EASY WAY
 
 This ONLY works if you have a 64 bit processor. If you don't, use manual.
-Download the zip and run cuttingedge.exe or just download cuttingedge.exe.
+Download the zip and run cuttingedge_1.exe or just download cuttingedge_1.exe.
 After it's finished installing, restart Steam.
 This installs it to C:\Program Files (x86)\Steam\SteamApps\sourcemods\CuttingEdge.
 NOTE: The install might say it will install to C:\Program Files (x86)\theultimateboogie\GrundFPS Cutting Edge. Leave this alone, that's where it puts the uninstaller.
